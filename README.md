@@ -132,16 +132,7 @@ POST /analyze_customer
   "message": "..."
 }
 
-## Business Impact
-
-- 15–25% potential churn reduction
-- 70% reduction in manual effort
-- Bridges gap between data insights and business actions
-- Future Improvements
- -Feedback loop for self-improving model
-- Real-time streaming (Kafka)
-- Power BI integration
-- Multi-agent system
+---
 
 ## Author
 
@@ -149,7 +140,3 @@ Shriya Shukla
 Location: Lucknow, India
 Mail: shriyaa0902@gmail.com
 LinkedIn: https://www.linkedin.com/in/shriyashukla09/
-
-## Support
-
-If you found this useful, give it a ⭐ on GitHub!
