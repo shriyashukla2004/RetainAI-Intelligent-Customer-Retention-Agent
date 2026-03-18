@@ -1,7 +1,7 @@
 from groq import Groq
 
 # Initialize client
-client = Groq(api_key="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")
+client = Groq(api_key="YOUR_API_KEY")
 
 # -------------------------------
 # 1. Explain churn
