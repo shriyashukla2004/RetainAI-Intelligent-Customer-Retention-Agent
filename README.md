@@ -8,7 +8,7 @@
 
 Customer churn is one of the biggest business challenges. Most solutions stop at prediction.
 
-👉 **RetainAI goes beyond prediction.**
+**RetainAI goes beyond prediction.**
 
 ### This system:
 -  Identifies customers at risk of churn  
@@ -96,22 +96,22 @@ Insights + Strategy + Message
 
 ## How to Run Locally
 
-1️⃣ Clone the repo
+1️. Clone the repo
 ```bash
 git clone https://github.com/shriyashukla2004/RetainAI-Intelligent-Customer-Retention-Agent.git
 cd retainai
 
-2️⃣ Create virtual environment
+2️. Create virtual environment
 python -m venv venv
 venv\Scripts\activate   # Windows
 
-3️⃣ Install dependencies
+3️. Install dependencies
 pip install -r requirements.txt
 
-4️⃣ Run Backend (FastAPI)
+4️. Run Backend (FastAPI)
 uvicorn backend.main:app --reload
 
-5️⃣ Run Frontend (Streamlit)
+5️. Run Frontend (Streamlit)
 streamlit run frontend/app.py
 
 ## API Endpoint
