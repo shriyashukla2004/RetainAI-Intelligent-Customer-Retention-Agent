@@ -95,9 +95,8 @@ Insights + Strategy + Message
 ---
 
 ## How to Run Locally
-
-1. Clone the repo
 ```bash
+1. Clone the repo
 git clone https://github.com/shriyashukla2004/RetainAI-Intelligent-Customer-Retention-Agent.git
 cd retainai
 
